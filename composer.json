@@ -1,0 +1,22 @@
+{
+    "name": "iporm/iporm",
+    "type": "library",
+    "keywords": ["orm", "php", "mysql", "wrapper"],
+    "homepage": "https://github.com/pejicbgd/iporm",
+    "description": "Basic MySQL ORM package for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Pejic",
+            "email": "pejicbgd@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Iporm\\": "src/Iporm/"
+        }
+    }
+}
