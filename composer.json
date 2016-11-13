@@ -5,6 +5,7 @@
     "homepage": "https://github.com/pejicbgd/iporm",
     "description": "Basic MySQL ORM package for PHP",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Ivan Pejic",
