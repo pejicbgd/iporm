@@ -1,6 +1,10 @@
 <?php
 
+use Iporm\Connection;
+
 require "vendor/autoload.php";
+
+Connection::connect('', '', '', '');
 
 //INSERT
 $db = new \Iporm\Db();
