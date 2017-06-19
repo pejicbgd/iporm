@@ -2,8 +2,6 @@
 
 namespace Iporm;
 
-use Iporm\Helper;
-
 class Db
 {
     private $_con;
